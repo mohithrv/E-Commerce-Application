@@ -9,3 +9,8 @@ An E-Commerce app built with Java and JavaFX
 ![eca2](https://user-images.githubusercontent.com/119573539/209805147-07ad43a0-4a97-4b3d-898e-e65b6caac270.png)
 
 
+-Page for buyer
+
+![eca3](https://user-images.githubusercontent.com/119573539/209805390-8adcfb4f-5b5e-46fc-a0ad-bea3f8692803.png)
+
+
